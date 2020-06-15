@@ -1,3 +1,3 @@
 <?php
-    header("location:../https://bemon-v2.netlify.app/home");
+    header("location:../r-be-mon/home");
 ?>
