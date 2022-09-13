@@ -1,3 +1,2 @@
 <?php
-    header("location:../home");
-?>
+header("location:../bemon-v2/home");
